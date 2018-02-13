@@ -1,0 +1,7 @@
+jobs:
+  include:
+    - stage: Style
+
+      language: php
+
+php: 7.0
